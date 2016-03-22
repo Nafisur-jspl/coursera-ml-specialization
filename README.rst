@@ -9,4 +9,5 @@ Machine Learning Foundations: A Case Study Approach
 
 4. `Retrieving Wikipedia articles <https://github.com/ivankliuk/coursera-ml-specialization/blob/master/ml-foundations/clustering_and_similarity/document-retrieval.ipynb>`_
 5. `Recommending songs <https://github.com/ivankliuk/coursera-ml-specialization/blob/master/ml-foundations/recommending_products/song-recommender.ipynb>`_
+6. `Deep features for image retrieval <https://github.com/ivankliuk/coursera-ml-specialization/blob/master/ml-foundations/deep_learning/image_retrieval.ipynb>`_
 
